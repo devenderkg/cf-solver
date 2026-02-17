@@ -24,7 +24,7 @@
 Install via pip:
 
 ```bash
-pip install cf-solver
+pip install cf-solver-lib
 ```
 
 *Note: Ensure you have a Chrome-based browser installed on your system.*
@@ -116,3 +116,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This tool is for educational and research purposes only. Ensure you comply with the Terms of Service of any website you interact with.
+
